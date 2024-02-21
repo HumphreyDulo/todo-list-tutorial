@@ -1,0 +1,11 @@
+<.simple_form :let={f} for={@changeset} method="put" action={~p"/items/#{@item}"}>
+  <.input field={{f, :text}} type="text" placeholder="Title" class="new-todo" />
+  <.input field={{f, :description}} type="text" placeholder="Description" class="new-todo" />
+  <.input field={{f, :time}} type="text" placeholder="Time" class="new-todo" />
+  <:actions>
+    <.button style="display: none;" type="submit">
+      Save
+    </.button>
+  </:actions>
+  <!-- submit the form using the Return/Enter key -->
+</.simple_form>

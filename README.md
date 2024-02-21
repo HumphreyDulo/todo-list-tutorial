@@ -1,6 +1,6 @@
 # Todo List
 
-Elixir phoenix application tutorial provided by: `[https://github.com/dwyl/phoenix-todo-list-tutorial.git]`
+Elixir phoenix application tutorial provided by: [dwyl](https://github.com/dwyl/phoenix-todo-list-tutorial.git)
 
 You'll find detailed instructions, usage guidelines, and other helpful resources there.
 

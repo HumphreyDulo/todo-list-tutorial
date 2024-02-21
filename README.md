@@ -12,4 +12,12 @@ Before getting started, make sure you have the following installed on your syste
 - Erlang OTP v26 or newer
 - Elixir 1.14 or newer
 
+
+### Running Tests
+
+To run the test suite, execute the following command in the project root directory:
+
+```bash
+mix test
+
 --- 

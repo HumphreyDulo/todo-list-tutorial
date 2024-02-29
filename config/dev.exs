@@ -2,8 +2,8 @@ import Config
 
 # Configure your database
 config :app, App.Repo,
-  username: "dulo",
-  password: "1234m",
+  username: "postgres",
+  password: "1234",
   hostname: "localhost",
   database: "app_dev",
   stacktrace: true,
